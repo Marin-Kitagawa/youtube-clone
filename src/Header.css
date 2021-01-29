@@ -43,3 +43,7 @@
 .header__icon {
     margin-right: 8px;
 }
+
+.header__inputDesign {
+    outline: 0;
+}
